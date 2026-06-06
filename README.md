@@ -15,8 +15,12 @@
 
 ## Connect with Me
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/gO5y0VABHE//)
+## 🌐 Connect with Me
 
-[![HackerRank](https://img.shields.io/badge/HackerRank-Profile-brightgreen?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/radhikadeshmukh8)
+💼 LinkedIn: https://www.linkedin.com/in/radhika-deshmukh-78aa43289
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Radhika%20Deshmukh-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/radhika-deshmukh-78aa43289)
+💻 GitHub: https://github.com/deshmukh50
+
+🧩 LeetCode: https://leetcode.com/u/gO5y0VABHE/
+
+🏆 HackerRank: https://www.hackerrank.com/radhikadeshmukh8
