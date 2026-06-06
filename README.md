@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Radhika Deshmukh 👋
 
-<!--
-**deshmukh50/deshmukh50** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Computer Science Student
+🌱 Learning Java, Web Development
+🎨 Design Team Member at DCode Club
+📍 Parbhani, Maharashtra
 
-Here are some ideas to get you started:
+## Skills
+- HTML
+- CSS
+- JavaScript
+- Java
+- Git & GitHub
+- Basic UI design with figma
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Connect with Me
+LinkedIn: www.linkedin.com/in/radhika-deshmukh-78aa43289
