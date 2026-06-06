@@ -14,7 +14,6 @@
 - Basic UI design with figma
 
 ## Connect with Me
-## Coding Profiles
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/gO5y0VABHE//)
 
