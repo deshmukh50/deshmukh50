@@ -30,7 +30,7 @@
 </a>
 
 <a href="https://www.hackerrank.com/radhikadeshmukh8" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="Hackerrank" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/hackerrank/00EA64" alt="HackerRank" width="40" height="40"/>
 </a>
 
 <a href="https://github.com/deshmukh50" title="GitHub">
