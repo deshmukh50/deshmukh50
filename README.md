@@ -1,9 +1,9 @@
 # Hi, I'm Radhika Deshmukh 👋
 
-💻 Computer Science Student
-🌱 Learning Java, Web Development
-🎨 Design Team Member at DCode Club
-📍 Parbhani, Maharashtra
+💻 Computer Science Student <br>
+🌱 Learning Java, Web Development<br>
+🎨 Design Team Member at DCode Club<br>
+📍 Parbhani, Maharashtra<br>
 
 ## 🛠️ Skills
 
@@ -21,7 +21,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/>
 </a>
 
-<a href="https://leetcode.com/u/YOUR_LEETCODE_USERNAME/" target="_blank">
+<a href="https://leetcode.com/u/gO5y0VABHE/" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="40" height="40"/>
 </a>
 
@@ -29,6 +29,10 @@
   <img src="https://img.icons8.com/color/48/gmail-new.png" width="40"/>
 </a>
 
-<a href="https://www.hackerrank.com/YOUR_HACKERRANK_USERNAME" target="_blank">
+<a href="https://www.hackerrank.com/radhikadeshmukh8" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="Hackerrank" width="40" height="40"/>
+</a>
+
+<a href="https://github.com/deshmukh50" title="GitHub">
+  <img src="https://cdn.simpleicons.org/github/white" width="40"/>
 </a>
