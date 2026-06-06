@@ -25,6 +25,10 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="40" height="40"/>
 </a>
 
+<a href="mailto:radhikadeshmukh454@gmail.com">
+  <img src="https://cdn.simpleicons.org/gmail/EA4335" width="40"/>
+</a>
+
 <a href="https://www.hackerrank.com/YOUR_HACKERRANK_USERNAME" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="Hackerrank" width="40" height="40"/>
 </a>
