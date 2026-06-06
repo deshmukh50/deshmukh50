@@ -14,4 +14,10 @@
 - Basic UI design with figma
 
 ## Connect with Me
-LinkedIn: www.linkedin.com/in/radhika-deshmukh-78aa43289
+## Coding Profiles
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/gO5y0VABHE//)
+
+[![HackerRank](https://img.shields.io/badge/HackerRank-Profile-brightgreen?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/radhikadeshmukh8)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Radhika%20Deshmukh-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/radhika-deshmukh-78aa43289)
