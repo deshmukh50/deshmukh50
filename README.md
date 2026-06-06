@@ -13,14 +13,16 @@
 - Git & GitHub
 - Basic UI design with figma
 
-## Connect with Me
+## 🌐 Connect With Me
 
-## 🌐 Connect with Me
+<a href="https://www.linkedin.com/in/radhika-deshmukh-78aa43289" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/>
+</a>
 
-💼 LinkedIn: https://www.linkedin.com/in/radhika-deshmukh-78aa43289
+<a href="https://leetcode.com/u/YOUR_LEETCODE_USERNAME/" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="40" height="40"/>
+</a>
 
-💻 GitHub: https://github.com/deshmukh50
-
-🧩 LeetCode: https://leetcode.com/u/gO5y0VABHE/
-
-🏆 HackerRank: https://www.hackerrank.com/radhikadeshmukh8
+<a href="https://www.hackerrank.com/YOUR_HACKERRANK_USERNAME" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="Hackerrank" width="40" height="40"/>
+</a>
