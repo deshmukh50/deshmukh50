@@ -26,7 +26,7 @@
 </a>
 
 <a href="mailto:radhikadeshmukh454@gmail.com" title="Email">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40"/>
+  <img src="https://cdn.simpleicons.org/maildotru" width="40"/>
 </a>
 
 <a href="https://www.hackerrank.com/YOUR_HACKERRANK_USERNAME" target="_blank">
