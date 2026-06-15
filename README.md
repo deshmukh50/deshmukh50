@@ -31,7 +31,3 @@
 <a href="https://www.hackerrank.com/radhikadeshmukh8" target="_blank">
   <img src="https://cdn.simpleicons.org/hackerrank/00EA64" alt="HackerRank" width="40" height="40"/>
 </a>
-
-<a href="https://github.com/deshmukh50" title="GitHub">
-  <img src="https://cdn.simpleicons.org/github/white" width="40"/>
-</a>
