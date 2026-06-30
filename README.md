@@ -31,3 +31,7 @@
 <a href="https://www.hackerrank.com/radhikadeshmukh8" target="_blank">
   <img src="https://cdn.simpleicons.org/hackerrank/00EA64" alt="HackerRank" width="40" height="40"/>
 </a>
+
+<a href="https://www.figma.com/@YOUR_USERNAME" target="_blank">
+<img src="https://cdn.simpleicons.org/figma/F24E1E" alt="Figma" width="40" height="40"/> 
+</a>
