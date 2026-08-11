@@ -15,15 +15,6 @@ web development, and UI design.
 I enjoy building websites, learning new technologies, solving programming
 problems, and improving my technical skills through practical projects.
 
-Currently, I am focusing on:
-- ☕ Java Programming
-- 🌐 Web Development
-- 🗄️ SQL & Database Management
-- 💻 Data Structures & Algorithms
-- 🎨 UI/UX Design using Figma
-- 🔧 Git & GitHub
-
-
 ## 🛠️ Skills
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
