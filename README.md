@@ -1,7 +1,7 @@
 # Hi, I'm Radhika Deshmukh 👋
 
-🎓 Computer Science Engineering Student <br>   
-💻 Passionate about Frontend Development & Building User-Friendly Websites<br> 
+🎓 Computer Science Engineering Student
+💻 Passionate about Frontend Development & Building User-Friendly Websites
 🌱 Currently Learning Java & Full Stack Web Development  
 🎨 Design Team Member at DCode Club  
 📍 Parbhani, Maharashtra, India  
