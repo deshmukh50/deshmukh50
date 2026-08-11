@@ -1,9 +1,28 @@
 # Hi, I'm Radhika Deshmukh 👋
 
-💻 Computer Science Student <br>
-🌱 Learning Java, Web Development<br>
-🎨 Design Team Member at DCode Club<br>
-📍 Parbhani, Maharashtra<br>
+🎓 Computer Science Engineering Student <br>   
+💻 Passionate about Frontend Development & Building User-Friendly Websites<br> 
+🌱 Currently Learning Java & Full Stack Web Development  
+🎨 Design Team Member at DCode Club  
+📍 Parbhani, Maharashtra, India  
+
+
+## 👩‍💻 About Me
+
+I am a Computer Science Engineering student interested in software development, Full Stack
+web development, and UI design.
+
+I enjoy building websites, learning new technologies, solving programming
+problems, and improving my technical skills through practical projects.
+
+Currently, I am focusing on:
+- ☕ Java Programming
+- 🌐 Web Development
+- 🗄️ SQL & Database Management
+- 💻 Data Structures & Algorithms
+- 🎨 UI/UX Design using Figma
+- 🔧 Git & GitHub
+
 
 ## 🛠️ Skills
 
